@@ -1,0 +1,11 @@
+{
+    "car_menu_title": "Menú del vehículo",
+    "extras_option_title": "Extras",
+    "extras_option_desc": "Activar o desactivar extras",
+    "livery_option_title": "Pegatina",
+    "livery_option_desc": "Activar o desactivar pegatina",
+    "liveries_menu_title": "Pegatinas - %s",
+    "extras_menu_title": "Extras - %s",
+    "toggle_option_title": "ID #%s - %s",
+    "null_label": "Nada"
+}

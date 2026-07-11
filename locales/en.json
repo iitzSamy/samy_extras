@@ -1,0 +1,11 @@
+{
+    "car_menu_title": "Car menu",
+    "extras_option_title": "Extras",
+    "extras_option_desc": "Enable or disable extras",
+    "livery_option_title": "Livery",
+    "livery_option_desc": "Enable or disable livery",
+    "liveries_menu_title": "Liveries - %s",
+    "extras_menu_title": "Extras - %s",
+    "toggle_option_title": "ID #%s - %s",
+    "null_label": "Null"
+}
